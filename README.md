@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tch_Pramod
+- 👋 Hi, I’m Pramod
 - 👀 I’m interested in  coding / electronics project 
 - 🌱 I’m currently learning ..
-- 😄 Pronouns: ... @TCH
+- 😄 Pronouns: ... @Tch
 
 <!---
 Tch_Pramod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
