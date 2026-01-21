@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Pramod
-- 👀 I’m interested in  coding / electronics project 
-- 🌱 I’m currently learning ..
-- 😄 Pronouns: ... @Tch
+👋 Hi, I'm Pramod Sahu  
+🎓 BCA Final Year Student  
+💻 Python | AI | DBMS | Computer Networks  
+🚀 Interested in AI Assistants & Smart Systems  
 
-<!---
-Tch_Pramod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Projects:
+- Hospital Management System (Python + MySQL)
+- Smart Attendance System (Face / QR)
+
+📫 Contact:
+- GitHub: https://github.com/6450pramod
