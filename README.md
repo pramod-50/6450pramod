@@ -1,11 +1,11 @@
 👋 Hi, I'm Pramod Sahu  
-🎓 BCA Final Year Student  
-💻 Python | AI | DBMS | Computer Networks  
-🚀 Interested in AI Assistants & Smart Systems  
+🎓 BCA Graduate  
+💻 Python | SQL | DBMS | Web Development | Computer Networks  
+🚀 Interested in AI Solutions, Smart Systems & Software Development  
 
 🔹 Projects:
-- Hospital Management System (Python + MySQL)
-- Smart Attendance System (Face / QR)
+• Smart Attendance Management System (Face Recognition / QR / Firebase)  
+• Hospital Management System (Python + MySQL)  
 
 📫 Contact:
-- GitHub: https://github.com/6450pramod
+• GitHub: github.com/6450pramod
